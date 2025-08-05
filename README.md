@@ -1,2 +1,2 @@
 # student-portal-demo
-Basic student poratal design
+A simple student portal demo with basic design and fetures.
